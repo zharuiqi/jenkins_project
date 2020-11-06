@@ -1,0 +1,48 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "智能调度台操作",
+    "children" : [ {
+      "name" : "test_login_001",
+      "uid" : "b67067abec0de742",
+      "parentUid" : "ae1b22594f2358746119d9400f804ae6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1604659497139,
+        "stop" : 1604659497139,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_002",
+      "uid" : "c43e24a5443e3ce7",
+      "parentUid" : "ae1b22594f2358746119d9400f804ae6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604659497153,
+        "stop" : 1604659497153,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_003",
+      "uid" : "eff2449bb800bdf5",
+      "parentUid" : "ae1b22594f2358746119d9400f804ae6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604659497154,
+        "stop" : 1604659497154,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ae1b22594f2358746119d9400f804ae6"
+  } ]
+}

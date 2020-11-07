@@ -7,12 +7,12 @@
       "name" : "AssertionError: assert 0",
       "children" : [ {
         "name" : "test_login_001",
-        "uid" : "b67067abec0de742",
+        "uid" : "57014424b7949609",
         "parentUid" : "c9c77d7ae15b4ab6e63220cefc19b68f",
         "status" : "failed",
         "time" : {
-          "start" : 1604659497139,
-          "stop" : 1604659497139,
+          "start" : 1604767361906,
+          "stop" : 1604767361906,
           "duration" : 0
         },
         "flaky" : false,
